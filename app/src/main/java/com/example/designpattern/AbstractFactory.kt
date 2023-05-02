@@ -1,7 +1,6 @@
-package com.example.builder
+package com.example.designpattern
 
 import android.util.Log
-import org.junit.Test
 
 interface IUser{
     fun authentication()

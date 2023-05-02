@@ -1,4 +1,4 @@
-package com.example.builder
+package com.example.designpattern
 
 interface Virus {
     public fun mutate()

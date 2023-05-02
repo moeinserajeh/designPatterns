@@ -1,8 +1,4 @@
-package com.example.builder
-
-import org.junit.Test
-
-import org.junit.Assert.*
+package com.example.designpattern
 
 /**
  * Example local unit test, which will execute on the development machine (host).
